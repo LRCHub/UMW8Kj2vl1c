@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "IN THE RAIN x XDM",
+  "base_artist": "XG",
+  "createdAt": "2025-12-21T07:49:19.397106Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "IN THE RAIN x XDM",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/01_IN_THE_RAIN_x_XDM_XG.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IN THE RAIN x XDM",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_IN_THE_RAIN_x_XDM_XG.txt"
+    }
+  ]
+}
